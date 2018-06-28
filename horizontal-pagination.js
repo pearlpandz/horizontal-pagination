@@ -4,7 +4,6 @@
     Licencse        MIT/license 
     Dependencies    jquery.min.js
     version         2.0
-    powered by      @Bailwan-Karthi
 */
 ;
 (function($, window, document, undefined) {
